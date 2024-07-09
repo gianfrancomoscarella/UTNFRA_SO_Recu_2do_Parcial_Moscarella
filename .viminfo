@@ -1,0 +1,300 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1720493075,,"wq"
+:q!
+|2,0,1720489471,,"q!"
+:q
+|2,0,1720488668,,"q"
+:qq
+|2,0,1720488168,,"qq"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+	        image: 
+|3,1,1,1,1,0,1720488680,"        image: "
+"2	LINE	0
+	        image:
+|3,0,2,1,1,0,1720488663,"        image:"
+"3	LINE	0
+	            <li>Tu-Nombre Tu-Apellido</li>
+|3,0,3,1,1,0,1720488148,"            <li>Tu-Nombre Tu-Apellido</li>"
+"4	LINE	0
+	COPY web /usr/share/nginx/htmñ
+|3,0,4,1,1,0,1720487817,"COPY web /usr/share/nginx/htmñ"
+"-	CHAR	0
+	 
+|3,0,36,0,1,0,1720488656," "
+
+# Marcas en el archivo:
+'0  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,48,5,24,1720493075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'1  5  34  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,49,5,34,1720490774,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'2  5  35  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,50,5,35,1720490761,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'3  5  35  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,51,5,35,1720490761,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'4  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,52,5,24,1720490118,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'5  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,53,5,24,1720490118,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'6  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,54,5,24,1720490118,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'7  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,55,5,24,1720490118,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+'8  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,56,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+'9  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,57,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+
+# Lista de saltos (el más reciente va primero):
+-'  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,24,1720493075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  34  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,34,1720490774,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  35  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,35,1720490761,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  24  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,24,1720490118,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720490075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720490075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720490075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720490075,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489945,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  2  29  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+|4,39,2,29,1720489816,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720489643,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720489643,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720489643,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  7  10  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,7,10,1720489643,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489603,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489603,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489603,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489603,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489484,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489484,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489484,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  41  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,41,1720489484,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720489471,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720489471,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720489471,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720489471,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720489452,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720488796,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720488796,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720488796,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  9  50  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,9,50,1720488796,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488692,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488692,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488692,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488692,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488686,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488686,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488686,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  5  8  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,5,8,1720488686,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+-'  6  12  ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+|4,39,6,12,1720488673,"~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/UTN-FRA_SO_Examenes/202406_Recu/docker/docker-compose.yml
+	*	1720493072	0
+	"	5	24
+	^	5	25
+	.	5	25
+	+	5	50
+	+	7	20
+	+	9	50
+	+	5	25
+
+> ~/UTN-FRA_SO_Examenes/202406_Recu/docker/dockerfile
+	*	1720489944	0
+	"	2	29
+	^	2	30
+	.	2	29
+	+	3	29
+	+	3	0
+	+	1	21
+	+	2	29
+
+> ~/UTN-FRA_SO_Examenes/202406_Recu/docker/web/index.html
+	*	1720488250	0
+	"	14	30
+	^	14	30
+	.	14	29
+	+	13	37
+	+	14	29
